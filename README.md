@@ -1,2 +1,7 @@
 # applied_statistics_course
-This repository contain the final work for the course applied statistics.
+submitted by: 
+Yair Giladi. ID: 327511176
+Noam farhi. ID: 215486598
+
+
+
