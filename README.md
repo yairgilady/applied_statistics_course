@@ -4,7 +4,7 @@ Yair Giladi. ID: 327511176
 Noam farhi. ID: 215486598
 
 ### Zoom link
-Link for zoom explaing the code: 
+Link for zoom explaing the code: https://drive.google.com/file/d/168oawDlw9GoTKjNUgk2Tp8BZvvWIBsBV/view
 
 Disclaimer: since we only had 40 on zoom meeting, we had to speed things up. I strongly advice not to rely on the recording and just read the comments on the code.
 
