@@ -10,6 +10,7 @@ Disclaimer: since we only had 40 on zoom meeting, we had to speed things up. I s
 
 
 ### instruction: 
-In this repository We added six jupyter notebooks, each corresponding with every lecutre (the two lectures of bayesians analisys is combined into one). 
+In this repository We added six jupyter notebooks, each corresponding with every lecture (the two lectures of bayesians analisys is combined into one). 
+You can open it on your machine (prefferably in juypter lab) and look at our results.
 
 
